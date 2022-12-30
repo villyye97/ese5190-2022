@@ -9,6 +9,7 @@ https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/dang0v
 ### `/student`
 https://github.com/ese-detkin-lab/ese5190-2022/tree/main/students/villyye97
 ### `/midpoint`
+https://github.com/Dang0v/ese5190-project-midpoint
 ### `/b-roll`
 ### `/project-site`
 ### `/project-code`
